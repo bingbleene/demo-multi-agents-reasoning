@@ -1,0 +1,7 @@
+openai
+colorama
+tiktoken
+matplotlib
+python-dotenv
+streamlit
+pandas

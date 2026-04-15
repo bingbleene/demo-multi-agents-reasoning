@@ -1,0 +1,7 @@
+.env
+venv
+reasoning_history.json
+reasoning.log
+__pycache__/
+*.pyc
+*.pyo
